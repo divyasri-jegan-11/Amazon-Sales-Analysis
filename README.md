@@ -11,14 +11,15 @@ This project analyzes Amazon sales data to identify trends in revenue, customer 
 
 ### Power BI Dashboard
 ![Power BI Dashboard]
-![Dashboard](https://github.com/user-attachments/assets/1572610c-f05a-432f-b679-f97012b9cfff)
 
+![Dashboard](https://github.com/user-attachments/assets/b986bdaa-5c30-41de-8079-6ac61c8f13cd)
 
 ## 📂 Project Structure
 Amazon-Sales-Analysis
 
 ├── README.md  
 ├── amazon_sales_data.csv
+
 ├── amazon_clean.csv         
 ├── Amazon.ipynb                 
 ├── Dashboard.png    
