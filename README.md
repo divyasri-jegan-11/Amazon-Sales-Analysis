@@ -16,7 +16,7 @@ This project analyzes Amazon sales data to identify trends in revenue, customer 
 
 ## 📂 Project Structure
 Amazon-Sales-Analysis
-│
+
 ├── README.md  
 ├── amazon_sales_data.csv
 ├── amazon_clean.csv         
