@@ -18,8 +18,7 @@ This project analyzes Amazon sales data to identify trends in revenue, customer 
 Amazon-Sales-Analysis
 
 ├── README.md  
-├── amazon_sales_data.csv
-
+├── amazon_sales_data.csv  
 ├── amazon_clean.csv         
 ├── Amazon.ipynb                 
 ├── Dashboard.png    
