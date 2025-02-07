@@ -10,10 +10,12 @@ This project analyzes Amazon sales data to identify trends in revenue, customer 
 
 
 ### Power BI Dashboard
-![Power BI Dashboard](Dashboard.png)
+![Power BI Dashboard]
+![Dashboard](https://github.com/user-attachments/assets/1572610c-f05a-432f-b679-f97012b9cfff)
+
 
 ## 📂 Project Structure
-Amazon-Sales-Analysis/
+Amazon-Sales-Analysis
 │
 ├── README.md  
 ├── amazon_sales_data.csv
@@ -25,7 +27,7 @@ Amazon-Sales-Analysis/
 
 ## Installation & Usage
 1. Clone this repository:
-git clone https://github.com/username/Amazon-Sales-Analysis.git
+git clone https://github.com/divyasri-jegan-11/Amazon-Sales-Analysis.git
 
 2. Install the required Python packages:
    pip install pandas matplotlib seaborn
