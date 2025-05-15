@@ -27,11 +27,14 @@ Amazon-Sales-Analysis
 
 ## Installation & Usage
 1. Clone this repository:
-git clone https://github.com/divyasri-jegan-11/Amazon-Sales-Analysis.git
-
+   ```bash
+      git clone https://github.com/divyasri-jegan-11/Amazon-Sales-Analysis.git
+   ```
+   
 2. Install the required Python packages:
+   ```bash
    pip install pandas matplotlib seaborn
-
+   ```
 3. Run the Jupyter notebook or explore the dashboards.
 
 📊 Key Insights
