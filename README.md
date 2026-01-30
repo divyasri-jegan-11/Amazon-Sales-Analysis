@@ -14,7 +14,7 @@ This project analyzes Amazon sales data to identify trends in revenue, customer 
 
 ![Dashboard](https://github.com/user-attachments/assets/b986bdaa-5c30-41de-8079-6ac61c8f13cd)
 
-## 📂 Project Structure
+##  Project Structure
 Amazon-Sales-Analysis
 
 ├── README.md  
@@ -37,7 +37,7 @@ Amazon-Sales-Analysis
    ```
 3. Run the Jupyter notebook or explore the dashboards.
 
-📊 Key Insights
+ Key Insights
 1. Revenue Analysis
  - The Electronics and Home & Kitchen categories generate the most revenue.
  - Top Revenue Subcategories:
@@ -82,9 +82,6 @@ Amazon-Sales-Analysis
 - Discount patterns are consistent, with a majority of discounts ranging between 40% and 70%, making these categories highly attractive to customers.
 - Although the linear regression model provides a good approximation for predicting discounted prices, further refinement is needed to meet all assumptions for accurate statistical inference.
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
