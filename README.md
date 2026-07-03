@@ -29,7 +29,8 @@ This project analyzes Amazon sales data to uncover trends in revenue, customer e
 
 > **Power BI Dashboard**
 
-(https://github.com/user-attachments/assets/b986bdaa-5c30-41de-8079-6ac61c8f13cd)
+<img width="1515" height="827" alt="image" src="https://github.com/user-attachments/assets/441f6108-f7e1-4188-9266-551b5b855165" />
+
 
 ---
 
