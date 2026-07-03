@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Performance Analysis
+#  Amazon Sales Performance Analysis
 
 ### End-to-End Exploratory Data Analysis & Business Intelligence Dashboard
 
@@ -6,7 +6,7 @@ An end-to-end data analytics project that analyzes Amazon product sales data to 
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 E-commerce businesses generate large volumes of product and customer data, making it difficult to identify high-performing categories, optimize pricing strategies, and understand customer behavior.
 
@@ -14,7 +14,7 @@ This project analyzes Amazon sales data to uncover trends in revenue, customer e
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Analyze sales performance across product categories.
 * Evaluate customer engagement using ratings and review counts.
@@ -25,7 +25,7 @@ This project analyzes Amazon sales data to uncover trends in revenue, customer e
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard 
 
 > **Power BI Dashboard**
 
@@ -33,7 +33,7 @@ This project analyzes Amazon sales data to uncover trends in revenue, customer e
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
 The dataset contains Amazon product information, including:
 
@@ -49,7 +49,7 @@ The data was cleaned, transformed, and analyzed using Python before building int
 
 ---
 
-## 📈 Key Metrics
+##  Key Metrics
 
 | Metric                      | Observation                                          |
 | --------------------------- | ---------------------------------------------------- |
@@ -61,7 +61,7 @@ The data was cleaned, transformed, and analyzed using Python before building int
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### Revenue Performance
 
@@ -101,7 +101,7 @@ Model evaluation indicated a strong linear relationship between actual and disco
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 * Prioritize inventory and promotional campaigns for high-performing categories.
 * Optimize discount strategies to improve profitability while maintaining customer demand.
@@ -110,7 +110,7 @@ Model evaluation indicated a strong linear relationship between actual and disco
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Category                | Technologies              |
 | ----------------------- | ------------------------- |
@@ -119,20 +119,5 @@ Model evaluation indicated a strong linear relationship between actual and disco
 | Visualization           | Power BI, Tableau         |
 | Development Environment | Jupyter Notebook          |
 | Version Control         | Git, GitHub               |
-
----
-
-## 📁 Repository Structure
-
-```text
-Amazon-Sales-Analysis/
-│
-├── data/
-├── notebooks/
-├── dashboard/
-├── images/
-├── README.md
-└── LICENSE
-```
 
 ---
